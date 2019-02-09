@@ -1,5 +1,5 @@
-# docker-mysql5.7
-ローカルのdockerにmysql5.7環境を構築するためのdocker-compose
+# Docker-MySQL5.7
+ローカルのDockerにMySQL5.7環境を構築するためのdocker-compose
 
 ## Usage
 ``` bash
